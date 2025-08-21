@@ -23,8 +23,8 @@ It provides all essential actions for development including building, debugging,
       extra diagnostics).
 - [x] Code coverage report with customizable levels.
 - [x] Advanced log parser to detect all errors, warnings, and failing tests.
-- [x] [nvim-tree], [neo-tree], and [oil.nvim] integration that automatically reflects
-      all file tree operations and updates Xcode project.
+- [x] [nvim-tree], [neo-tree], [oil.nvim], and [snacks.nvim] Explorer integration that
+      automatically reflects all file tree operations and updates Xcode project.
 - [x] [nvim-dap] integration to let you easily build, run, and debug apps.
 - [x] [nvim-dap-ui] integration to show app logs in the console window.
 - [x] [lualine.nvim] integration to show selected device, test plan, and other project settings.

@@ -150,6 +150,9 @@ local defaults = {
     oil_nvim = {
       enabled = true, -- enable updating Xcode project files when using oil.nvim
     },
+    snacks_explorer = {
+      enabled = true, -- enable updating Xcode project files when using snacks.nvim's Explorer
+    },
     quick = { -- integration with Swift test framework: github.com/Quick/Quick
       enabled = true, -- enable Quick tests support (requires Swift parser for nvim-treesitter)
     },
